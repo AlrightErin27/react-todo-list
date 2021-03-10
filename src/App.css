@@ -1,0 +1,31 @@
+body {
+  background-image: radial-gradient(
+    rgb(214, 210, 238) 30%,
+    rgb(176, 155, 211) 70%
+  );
+  margin: 50px 200px 50px 200px;
+  color: rgb(7, 7, 136);
+  font-family: monospace;
+  font-size: 25px;
+}
+.a-button {
+  background-color: rgb(7, 7, 136);
+  border-radius: 60%;
+  color: white;
+  font-size: 15px;
+  font-family: monospace;
+}
+.b-button {
+  background-color: rgb(80, 80, 228);
+  border-radius: 10%;
+  color: white;
+  font-size: 25px;
+  font-family: monospace;
+}
+.input {
+  font-family: monospace;
+  font-size: 25px;
+  color: rgb(80, 80, 228);
+  background-color: rgba(252, 237, 210, 0.838);
+  outline: none;
+}
